@@ -6,7 +6,7 @@
 ## Πίνακας Περιεχομένων
 * Γενικές Πληροφορίες
 * Τεχνική Αναφορά
-* [Κώδικας](https://github.com/DrG2020/00078_aadd_ett#Ο-ΚΩΔΙΚΑΣ)
+* [Κώδικας](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CE%BF-%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%B1%CF%83)
 * Εκκίνηση κώδικα
 
 
