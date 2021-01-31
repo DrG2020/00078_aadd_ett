@@ -1,5 +1,5 @@
 # 00078_aadd_ett
-Foobar
+#Foobar
 
 Foobar is a Python library for dealing with word pluralization.
 
