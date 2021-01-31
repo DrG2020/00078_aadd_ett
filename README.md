@@ -16,6 +16,12 @@
 
 ![GitHub Logo](https://github.com/DrG2020/00078_aadd_ett/blob/main/tabu.png)
 
+# Τεχνική Αναφορά
+
+
+# Δεδομένα Προβλήματος
+* [Κατέβασε τα Δεδομένα του προβλήματος από εδω.](https://github.com/DrG2020/00078_aadd_ett/blob/991c468853eb5b437b69c671b1ac7b5663abfa55/Data.txt)
+
 
 # Ο ΚΩΔΙΚΑΣ
 * [Κατέβασε τον κώδικα από εδώ](https://github.com/DrG2020/00078_aadd_ett/blob/main/main.c)
