@@ -6,7 +6,7 @@
 ## Πίνακας Περιεχομένων
 * [Πληροφορίες Εφαρμογής](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82)
 * [Τεχνική Αναφορά](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC)
-* [Εγκατάσταση Εφαρμογής]()
+* [Εγκατάσταση Εφαρμογής]
 * [Δεδομένα Προβλήματος](https://github.com/DrG2020/00078_aadd_ett#%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CE%B1-%CF%80%CF%81%CE%BF%CE%B2%CE%BB%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
 * [Κώδικας](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CE%BF-%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%B1%CF%83)
 
@@ -19,7 +19,7 @@
 ![GitHub Logo](https://github.com/DrG2020/00078_aadd_ett/blob/main/tabu.png)
 
 ## Τεχνική Αναφορά
-[Κατεβάστε την Τεχνική Αναφορά από εδώ]()
+[Κατεβάστε την Τεχνική Αναφορά από εδώ](https://github.com/DrG2020/00078_aadd_ett/blob/main/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%B7%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%B1.pdf)
 
 ## Εγκατάσταση εφαρμογής
 Προκειμένου να εκτέλεσετε την εφαρμογή κατεβάστε τον κώδικα καθώς και το αρχείο δεδομένων από τα αντίστοιχα link.Θα πρέπει να έχετε στον υπολογιστή σας ένα compiler της C++ προκειμένου να εκτελέσετε την εφαρμογή.
