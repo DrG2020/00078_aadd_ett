@@ -1,6 +1,4 @@
-# 00078_aadd_ett
-#Foobar
-
+# Εργασία στο μάθημα Αλγόριθμοι και Προχωρημένες Δομές Δεδομένων.
 Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
