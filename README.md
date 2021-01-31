@@ -18,4 +18,4 @@
 
 
 # Ο ΚΩΔΙΚΑΣ
-* [Κατέβασε τον κώδικα από εδώ](https://github.com/DrG2020/00078_aadd_ett/blob/main/%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1.pdf)
+* [Κατέβασε τον κώδικα από εδώ](https://github.com/DrG2020/00078_aadd_ett/blob/main/main.c)
