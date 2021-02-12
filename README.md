@@ -9,6 +9,7 @@
 * [Εγκατάσταση Εφαρμογής](https://github.com/DrG2020/00078_aadd_ett#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82)
 * [Δεδομένα Προβλήματος](https://github.com/DrG2020/00078_aadd_ett#%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CE%B1-%CF%80%CF%81%CE%BF%CE%B2%CE%BB%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
 * [Κώδικας](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CE%BF-%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%B1%CF%83)
+* [τεστ](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CF%84%CE%B5%CF%83%CF%84)
 
 
 
